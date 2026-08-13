@@ -1,8 +1,14 @@
 uploads = []
-outputs = []
 
 [[generated]]
 id = "eFrXEZVjywIHHOopNg98y"
 uri = "file://artifacts/sentinel/src/assets/hero-visualization.png"
 type = "image"
 title = "Futuristic data pipeline visualization"
+
+[[outputs]]
+id = "CUHiB-AJQ3Y6m-T5f0ABX"
+uri = "file://project-source.zip"
+type = "unspecified"
+title = "Complete project source ZIP"
+description = "Full project archive with source code, assets, configuration, generated API files, and workspace metadata. Dependency caches, build output, and Git internals are excluded."
